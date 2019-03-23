@@ -2,62 +2,115 @@
 
 ### General commands
 
-Roll
+#### Roll
+
 `!roll`
+
 roll a random number
 
-Say
+#### Say
+
 `!say <say message>`
+
 Make Burrito Boi say a message
 
-Ping
+
+
+#### Ping
+
 `!ping`
+
 Get the bot server ping
 
-About
+
+
+####About
+
 `!about`
+
 Get infomation about the bot
 
-Let me google that for you
+
+
+#### Let me google that for you
+
 `!lmgtfy`
+
 Google something for someone
 
-Commands
+
+
+#### Commands
+
 `!commands`
+
 Get a list of the bots commands
 
 
+
+
 ### Memes
+
 Burrito Boi's meme commands pulls a random meme from the pupular page.
 
-General Meme
+
+#### General Meme
+
 `!meme`
+
 Post a random meme
 
-Dark Meme
+
+
+#### Dark Meme
+
 `!darkmeme`
+
 Post a random darkmeme
 
-Pepe
+
+
+#### Pepe
+
 `!pepe`
+
 Post a random pepe
 
-Dank Meme
+
+
+#### Dank Meme
+
 `!pepe`
+
 Post a random dank meme
 
-Rare Pepe
+
+
+#### Rare Pepe
+
 `!rarepepe`
+
 Post a random rare pepe
+
+
 
 ### Mexi
 
-Mexi
+#### Mexi
+
 `!mexi`
+
 Take a roll of the mexi dice
 
-Mexi Hold
+
+
+#### Mexi Hold
+
 `!mexihold <dice number to hold>`
+
 Hold a one of your mexi rolls
+
+
+
 
 
