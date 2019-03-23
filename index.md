@@ -4,13 +4,13 @@
 
 * #### Roll
 
-      `!roll`
+    `!roll`
 
    roll a random number
 
 * #### Say
 
-      `!say <say message>`
+    `!say <say message>`
 
     Make Burrito Boi say a message
 
@@ -18,7 +18,7 @@
 
 * #### Ping
 
-      `!ping`
+    `!ping`
 
     Get the bot server ping
 
@@ -26,7 +26,7 @@
 
 * #### About
 
-      `!about`
+    `!about`
 
     Get infomation about the bot
 
@@ -34,7 +34,7 @@
 
 * #### Let me google that for you
 
-      `!lmgtfy`
+    `!lmgtfy`
 
     Google something for someone
 
@@ -42,7 +42,7 @@
 
 * #### Commands
 
-      `!commands`
+    `!commands`
 
     Get a list of the bots commands
 
@@ -56,7 +56,7 @@
 
 * #### General Meme
 
-      `!meme`
+    `!meme`
 
    Post a random meme
 
@@ -64,7 +64,7 @@
 
 * #### Dark Meme
 
-      `!darkmeme`
+    `!darkmeme`
 
     Post a random darkmeme
 
@@ -72,7 +72,7 @@
 
 * #### Pepe
 
-      `!pepe`
+    `!pepe`
 
     Post a random pepe
 
@@ -80,7 +80,7 @@
 
 * #### Dank Meme
 
-      `!pepe`
+    `!pepe`
 
     Post a random dank meme
 
@@ -88,7 +88,7 @@
 
 * #### Rare Pepe
 
-      `!rarepepe`
+    `!rarepepe`
 
     Post a random rare pepe
 
@@ -98,7 +98,7 @@
 
 * #### Mexi
 
-      `!mexi`
+    `!mexi`
 
     Take a roll of the mexi dice
 
@@ -106,7 +106,7 @@
 
 * #### Mexi Hold
 
-      `!mexihold <dice number to hold>`
+    `!mexihold <dice number to hold>`
 
     Hold a one of your mexi rolls
 
