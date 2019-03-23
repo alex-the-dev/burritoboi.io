@@ -2,113 +2,113 @@
 
 ### General commands
 
-#### Roll
+* #### Roll
 
-`!roll`
+      `!roll`
 
-roll a random number
+   roll a random number
 
-#### Say
+* #### Say
 
-`!say <say message>`
+      `!say <say message>`
 
-Make Burrito Boi say a message
-
-
-
-#### Ping
-
-`!ping`
-
-Get the bot server ping
+    Make Burrito Boi say a message
 
 
 
-####About
+* #### Ping
 
-`!about`
+      `!ping`
 
-Get infomation about the bot
-
-
-
-#### Let me google that for you
-
-`!lmgtfy`
-
-Google something for someone
+    Get the bot server ping
 
 
 
-#### Commands
+* #### About
 
-`!commands`
+      `!about`
 
-Get a list of the bots commands
+    Get infomation about the bot
+
+
+
+* #### Let me google that for you
+
+      `!lmgtfy`
+
+    Google something for someone
+
+
+
+* #### Commands
+
+      `!commands`
+
+    Get a list of the bots commands
 
 
 
 
 ### Memes
 
-Burrito Boi's meme commands pulls a random meme from the pupular page.
+    Burrito Boi's meme commands pulls a random meme from the pupular page.
 
 
-#### General Meme
+* #### General Meme
 
-`!meme`
+      `!meme`
 
-Post a random meme
-
-
-
-#### Dark Meme
-
-`!darkmeme`
-
-Post a random darkmeme
+   Post a random meme
 
 
 
-#### Pepe
+* #### Dark Meme
 
-`!pepe`
+      `!darkmeme`
 
-Post a random pepe
-
-
-
-#### Dank Meme
-
-`!pepe`
-
-Post a random dank meme
+    Post a random darkmeme
 
 
 
-#### Rare Pepe
+* #### Pepe
 
-`!rarepepe`
+      `!pepe`
 
-Post a random rare pepe
+    Post a random pepe
+
+
+
+* #### Dank Meme
+
+      `!pepe`
+
+    Post a random dank meme
+
+
+
+* #### Rare Pepe
+
+      `!rarepepe`
+
+    Post a random rare pepe
 
 
 
 ### Mexi
 
-#### Mexi
+* #### Mexi
 
-`!mexi`
+      `!mexi`
 
-Take a roll of the mexi dice
+    Take a roll of the mexi dice
 
 
 
-#### Mexi Hold
+* #### Mexi Hold
 
-`!mexihold <dice number to hold>`
+      `!mexihold <dice number to hold>`
 
-Hold a one of your mexi rolls
+    Hold a one of your mexi rolls
 
 
 
