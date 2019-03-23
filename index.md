@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+## Burrito Boi Command List
 
-You can use the [editor on GitHub](https://github.com/alex-the-dev/burritoboi.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### General commands
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Roll
+`!roll`
+roll a random number
 
-### Markdown
+Say
+`!say <say message>`
+Make Burrito Boi say a message
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ping
+`!ping`
+Get the bot server ping
 
-```markdown
-Syntax highlighted code block
+About
+`!about`
+Get infomation about the bot
 
-# Header 1
-## Header 2
-### Header 3
+Let me google that for you
+`!lmgtfy`
+Google something for someone
 
-- Bulleted
-- List
+Commands
+`!commands`
+Get a list of the bots commands
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Memes
+Burrito Boi's meme commands pulls a random meme from the pupular page.
 
-[Link](url) and ![Image](src)
-```
+General Meme
+`!meme`
+Post a random meme
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Dark Meme
+`!darkmeme`
+Post a random darkmeme
 
-### Jekyll Themes
+Pepe
+`!pepe`
+Post a random pepe
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alex-the-dev/burritoboi.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Dank Meme
+`!pepe`
+Post a random dank meme
 
-### Support or Contact
+Rare Pepe
+`!rarepepe`
+Post a random rare pepe
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Mexi
+
+Mexi
+`!mexi`
+Take a roll of the mexi dice
+
+Mexi Hold
+`!mexihold <dice number to hold>`
+Hold a one of your mexi rolls
+
+
